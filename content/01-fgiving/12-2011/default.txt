@@ -4,10 +4,3 @@
 
 Text: # Get Off
 
-----
-
-Gallery: on
-
-----
-
-Filelist: on

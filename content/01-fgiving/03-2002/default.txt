@@ -434,11 +434,3 @@ you forgot:
 
 the pictures are classic.
 LC
-
-----
-
-Gallery: on
-
-----
-
-Filelist: 

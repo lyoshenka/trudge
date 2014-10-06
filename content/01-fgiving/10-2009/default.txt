@@ -3,11 +3,3 @@
 ----
 
 Text: # Mission Possible
-
-----
-
-Gallery: on
-
-----
-
-Filelist: on

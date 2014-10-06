@@ -13,9 +13,9 @@ fields:
     label: Text
     type:  textarea
     size:  large
-  gallery:
-    label: Gallery
+  hide_gallery:
+    label: Hide Gallery
     type: checkbox
-  filelist:
-    label: List Files
+  hide_filelist:
+    label: Hide File List
     type: checkbox

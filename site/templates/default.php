@@ -7,12 +7,32 @@
   <article>
     <h1><?php echo html($page->title()) ?></h1>
     <?php echo kirbytext($page->text()) ?>
-    <?php if ($page->gallery() == 'on'): ?>
-      <?php snippet('gallery') ?>
+
+    <?php $showGallery = $page->hasImages() && $page->hide_gallery() != 'on' ?>
+    <?php if ($showGallery): ?>
+      <ul class="gallery unstyled">
+        <?php foreach($page->images() as $image): ?>
+          <li>
+            <a href="<?php echo $image->url() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->name() ?>"></a>
+          </li>
+        <?php endforeach ?>
+      </ul>
     <?php endif ?>
-    <?php if ($page->filelist() == 'on'): ?>
-      <?php snippet('filelist') ?>
+
+    <?php $showFilelist = $page->hasFiles() && $page->hide_filelist() != 'on' && ($page->files()->count() - $page->contents()->count()) > $page->images()->count() ?>
+    <?php if ($showFilelist): ?>
+      <h2>Files</h2>
+      <ul class="filelist">
+        <?php foreach($page->files() as $file): ?>
+          <?php if ($file->type() != 'content' && (!$showGallery || $file->type() != 'image')): ?>
+            <li>
+              <a href="<?php echo $file->url() ?>"><?php echo $file->filename() ?></a>
+            </li>
+          <?php endif ?>
+        <?php endforeach ?>
+      </ul>
     <?php endif ?>
+
   </article>
 
 </section>

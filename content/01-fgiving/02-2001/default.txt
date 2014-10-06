@@ -983,8 +983,8 @@ our tourney is this wknd. look for RPI to be there in full force for once and ro
 
 ----
 
-Gallery: on
+Hide_gallery: 
 
 ----
 
-Filelist: on
+Hide_filelist: 

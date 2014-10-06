@@ -5,11 +5,3 @@
 Text: # Troyality
 
 Theme: reality TV
-
-----
-
-Gallery: on
-
-----
-
-Filelist: on

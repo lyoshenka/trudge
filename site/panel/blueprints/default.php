@@ -13,3 +13,9 @@ fields:
     label: Text
     type:  textarea
     size:  large
+  gallery:
+    label: Gallery
+    type: checkbox
+  filelist:
+    label: List Files
+    type: checkbox

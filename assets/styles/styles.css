@@ -13,9 +13,13 @@ body {
   line-height: 26px;
   background: #fff;
   color: #5a5a5a;
-  max-width: 700px;
   margin: 50px auto;
 }
+
+body, img {
+  max-width: 700px;
+}
+
 a {
   color: #222;
   text-decoration: none;
@@ -111,4 +115,13 @@ td {
 }
 thead {
   text-align: left;
+}
+ul.unstyled li {
+  list-style: none;
+}
+.gallery li {
+  margin-bottom: 20px;
+}
+.gallery li a:hover {
+  background-color: transparent;
 }

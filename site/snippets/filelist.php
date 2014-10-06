@@ -1,12 +1,5 @@
-<?php snippet('header') ?>
-<?php snippet('menu') ?>
-<?php snippet('submenu') ?>
-
-<section class="content">
-
-  <h1><?php echo html($page->title()) ?></h1>
-
-  <ul class="gallery">
+<?php if ($page->hasFiles()): ?>
+  <ul class="filelist">
     <?php foreach($page->files() as $file): ?>
       <?php if ($file->extension() != 'txt'): ?>
         <li>
@@ -15,7 +8,4 @@
       <?php endif ?>
     <?php endforeach ?>
   </ul>
-
-</section>
-
-<?php snippet('footer') ?>
+<?php endif ?>

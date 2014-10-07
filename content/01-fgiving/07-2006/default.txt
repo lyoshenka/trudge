@@ -1,4 +1,4 @@
-﻿Title: 2006
+Title: 2006
 
 ----
 
@@ -19,9 +19,6 @@ Overall: Adam Poulos, Linda Casill
 totally dominated by the Old Doods -- the top undergrad finished in 7th place?! (the lady undergrads did slightly better with 2nd & 3rd place finishes). Adam P (Alumni) takes home the hunting hat and yours truly (Alumnae) was fortunate enough to take home the motion activated "Sweet Home Alabama" jeep with the dancing deer strapped to the hood of the car (quite possibly the worst toy i have ever seen)
 Saturday Alumni Challenge Game: Curents 16 – Old Doods 14
 We were complete dicks for the first half of the alumni/current game.  The current team didn't let this shake them and had a pretty sweet come back at the end (being down about 2 points the entire game).  Game was to 14 and they tied it at 14 and then scored 2.
-Photos:
-Jon Fink’s Photos:
-http://share.shutterfly.com/share/received/album.sfly?sid=8BcMmTlm2bOOA&startIndex=0&fid=44a7e980a943a4a3
 
 ## Seth’s Synopsis
 
@@ -220,3 +217,11 @@ both on Friday night at 4:30 am. We also received the standing ovation
 from Alden for doing so, as promised.”
 
 -Bats
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

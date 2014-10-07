@@ -3,6 +3,8 @@
 // direct access protection
 if(!defined('KIRBY')) die('Direct access is not allowed');
 
+ini_set("auto_detect_line_endings", true);
+
 /* 
 
 ---------------------------------------

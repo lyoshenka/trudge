@@ -2,8 +2,16 @@
 
 ----
 
-Text: # The Year Eli Cook Six Frozen Turkeys
+Text: # The Year Eli Cooked Six Frozen Turkeys
 
 Party theme: something about action figures
 
 Location: the attic of the Swamp??? the Batcave???
+
+----
+
+Hide_gallery: 
+
+----
+
+Hide_filelist: 

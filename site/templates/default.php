@@ -8,7 +8,7 @@
     <h1><?php echo html($page->title()) ?></h1>
     <?php echo kirbytext($page->text()) ?>
 
-    <?php $showGallery = $page->hasImages() && $page->hide_gallery() != 'on' ?>
+    <?php $showGallery = $page->hasImages() && in_array($page->hidegallery()->value, ['false','']) ?>
     <?php if ($showGallery): ?>
       <ul class="gallery unstyled">
         <?php foreach($page->images() as $image): ?>
@@ -19,7 +19,7 @@
       </ul>
     <?php endif ?>
 
-    <?php $showFilelist = $page->hasFiles() && $page->hide_filelist() != 'on' && ($page->files()->count() - $page->contents()->count()) > $page->images()->count() ?>
+    <?php $showFilelist = $page->hasFiles() && in_array($page->hidefilelist()->value, ['false','']) && (!$showGallery || $page->files()->count() > $page->images()->count()) ?>
     <?php if ($showFilelist): ?>
       <h2>Files</h2>
       <ul class="filelist">

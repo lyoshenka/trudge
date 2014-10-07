@@ -1,4 +1,4 @@
-﻿Title: Logos
+Title: Logos
 
 ----
 
@@ -6,4 +6,8 @@ Text:
 
 ----
 
-Filelist: on
+Hidegallery: true
+
+----
+
+Hidefilelist: false

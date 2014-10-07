@@ -1,4 +1,4 @@
-﻿Title: Results
+Title: Results
 
 ----
 
@@ -219,3 +219,11 @@ Text: ## Links
 |11.05|Green Mountain|Poultney, VT (GMC)|3-1 (2nd Place)|
 |11.11-13|F-Giving|Troy, NY (RPI)|1-0 (Current Team over Alums)|
 |Overall Record|18-7|
+
+----
+
+Hide-gallery: false
+
+----
+
+Hide-filelist: false

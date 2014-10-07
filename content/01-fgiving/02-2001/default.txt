@@ -1,4 +1,4 @@
-﻿Title: 2001
+Title: 2001
 
 ----
 
@@ -15,13 +15,6 @@ Saturday Alumni Challenge Game: Old Doods 13 – Currents 9
 ## Seth’s Synopsis
 
 In 2001, I was a freshman! I had my first taste of Guinness. I sat in Vogel’s Guinness Chair of Doom. I was frightened by all the old men and soon left the party. So frightened in fact, I didn’t even go to the dinner or festivities Saturday night. The Alumni scared and schooled upon us currents hard.... all weekend... multiple times. 1996 to 2000 were before my time. But I will share a few things that I know about these years. I know that the first FGiving involved the underclassmen to dress up like little kids for dinner on Saturday night. I know that FGiving 2000 FGiving was combined with Witch’s Teat and the Alumni did not lose a game. I know that there was lots of BBQs and Music and Pee and Nakedness. I also know that F-Giving is an amazing time to come together as the RPI Trudge family and kick some ass both at life and the great game of Ultimate Frizbar.
-
-## Pictures
-
-- [dinner](http://trudge.grin.io/content/01-fgiving/01-2001/2001-at-dinner.jpg)
-- [fields](http://trudge.grin.io/content/01-fgiving/01-2001/2001-group-photo.jpg)
-- [party](http://trudge.grin.io/content/01-fgiving/01-2001/2001-frisbee-thanksgiving-party.pdf)
-
 
 ## Famous Quotes and Trash Talk before F-Giving: 
 
@@ -983,8 +976,8 @@ our tourney is this wknd. look for RPI to be there in full force for once and ro
 
 ----
 
-Hide_gallery: 
+Hidegallery: false
 
 ----
 
-Hide_filelist: 
+Hidefilelist: false

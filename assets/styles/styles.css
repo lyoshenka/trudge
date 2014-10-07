@@ -27,13 +27,16 @@
 
 
 *, *:before, *:after {
-  margin: 0;
-  padding: 0;
-  border: 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+ul,ol {
+  padding: 0;
+  margin: 0;
+}
+
 
 html {
   height: 101%;
@@ -138,6 +141,8 @@ footer a:hover {
 hr {
   margin: 20px 0;
   color: #6c4305;
+  border-width: 1px;
+  border-style: inset;
 }
 
 table {

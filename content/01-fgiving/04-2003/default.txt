@@ -1,4 +1,4 @@
-﻿Title: 2003
+Title: 2003
 
 ----
 
@@ -389,6 +389,7 @@ Best Looking on Twisted Metal - a list that will be unveiled sometime
 in early January. Stay tuned, and God Bless. 
 Way to go Thumpshow. Please join me in congratulating this man. See 
 below for a bio: 
+
 Name: Greg Sanda 
 Nickname: Thumper 
 Alter Ego: Craig 
@@ -399,6 +400,7 @@ Favorite Food: Anything that requires he wears a bib, Coldbeers
 Favorite bands: Hall and Oates, Chicago (the early stuff, not the 
 watered down Peter Cetera stuff), The Smashing Pumpkins 
 Song he is most scared of: Bugs by Pearl Jam 
+
 Favorite slogan(s): 
 - "Are you for real?" 
 - "Honest?" 
@@ -407,6 +409,7 @@ the Hobby Lobby"
 - "You gotta have rules, you gotta have discipline" 
 - Instead of asking yes or no questions, he will say, "yes or not at 
 all?" 
+
 Best accomplishments, divided up by eras in his life: 
 JUNIOR HIGH - Kissed Tess Finch 
 EARLY HIGH SCHOOL - Hit a homerun off Justin Peters, who is now the 
@@ -433,6 +436,7 @@ ambition. I spent countless hours on the phone with him and sending
 him faxes, doing his homework for him and assisting him with whatever 
 he needed. Some will say this Law degree is as much mine as it is his, 
 others will not. Some are wrong. 
+
 So, that about sums it up. It is in this ultimate community that we 
 share stories that matter. Greg has always, without question, found 
 that Spirit of the Game is something that can, and should be, bottled. 
@@ -1045,3 +1049,11 @@ whippin' it out for 15 strangers of mostly the same sex).
 ps -- i want to thank everyone, young and old doods, for their attention
 during this email. i really had an awesome time hitting the 'send'
 button. can't wait to do it again next time!
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

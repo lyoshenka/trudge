@@ -1,4 +1,4 @@
-﻿Title: 2008
+Title: 2008
 
 ----
 
@@ -49,7 +49,7 @@ Old dudes turn lose to young dudes sober and barely show up at party. Hit late 2
  
 Can we get more like 2004 pls? I mean, I'll be peeing everywhere regardless, but it's more fun when you're playing swords.”
  
-- Bats
+-Bats
  
 ---
 
@@ -79,3 +79,11 @@ Prediction: Ruiz hucks to a drunk Adam, who skies some freshman for the win.”
 I think it is important that we let the older alums sit it out and hopefully we can make some alterations that would get them to come back and continue this great tradition.  If you have suggestions please speak up, because frankly I suck at this and I don’t want it to go away.  Eventually we are going to be in their shoes and we’ll be getting heckled for it.”
  
 -Dyer
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

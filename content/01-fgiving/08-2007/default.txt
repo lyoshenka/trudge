@@ -1,4 +1,4 @@
-﻿Title: 2007
+Title: 2007
 
 ----
 
@@ -43,7 +43,7 @@ As I so plainly have whined about through the years, I have never won an alumni 
 ---
 
 “I've been getting all Rocky Balboa and John Rambo'ed up this year. You young ball creamers are going down faster than Jon Fink's pants.”
-- stokes n' shit
+-stokes n' shit
 
 ---
 
@@ -112,3 +112,11 @@ didn't have when you weighed in. Any asshat can be a Barry Bonds,
 strive to be a true champion and win without an asterisk.”
 
 -Tate
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

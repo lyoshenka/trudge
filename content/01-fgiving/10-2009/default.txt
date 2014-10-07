@@ -1,4 +1,4 @@
-﻿Title: 2009
+Title: 2009
 
 ----
 
@@ -26,92 +26,92 @@ Grin lists all of the fantastic party ideas:
 “Here are the theme ideas from the form:
 
 90s pop culture
-- Dyer aka "Adam"
+-Dyer aka "Adam"
                         
 mime party.
-- Steve Calabrizzle
+-Steve Calabrizzle
 
 some star wars shit
-- Jay Walker
+-Jay Walker
 
 idk                         
-- Brendan Lambert
+-Brendan Lambert
 
 plymouth rock party...everyone dresses up like pilrims, indians, turkeys, or other thanksgiving-y things
-- Lindsay Ostrander
+-Lindsay Ostrander
 
 Hmm. A good place to either test out/recycle wildwood themes. Or not.
 Butts.
 I don't know. 
-- Marguerite!
+-Marguerite!
 
 Mel Gibson Characters
-- MAx Dyer
+-MAx Dyer
 
 I can't think of anything unique enough
-- Chris Weyers
+-Chris Weyers
 
 wheres the money lebowski?
-- Robb
+-Robb
 
 Bro Rape.
 Meal Worms.
 War Heroes.
 Harold & The Purple Crayon
-- Big Mike
+-Big Mike
 
 Prominent religious and mythical characters.                     
-- Kendra
+-Kendra
 
 80's TV shows (did we already do this?)
 Trailer park
 Girls night out (who doesn't want to see me in a skirt?)
-- Prince
+-Prince
 
 Cats.
-- Jordan Snyder
+-Jordan Snyder
 
 Wizard sticks!         
-- I didn't put my name because I am a silly (wo)man and enjoy inhaling the scent of my feces
+-I didn't put my name because I am a silly (wo)man and enjoy inhaling the scent of my feces
 
 Popular Youtube Videos       
-- I was going to put my name, but the (wo)man above invited me over for some feces-huffing and I forgot
+-I was going to put my name, but the (wo)man above invited me over for some feces-huffing and I forgot
 
 superheros
-- Alexis
+-Alexis
 
 Cowboys and Indians
-- Hoff
+-Hoff
 
 I still think we should do the Prize theme.
 All alums bring a ridiculuosly cool item (preferably one that can be worn) and the currents must perform amazing acts to claim such items.
 Alums bring the items currents think of feats.
 I shall dubb this theme Smell My Prize Feat!!!
 puntastic!
-- RocketSauce
+-RocketSauce
 
 Chem Lab
-- Step-dude
+-Step-dude
 
 Ninjas                       
-- Oliver Yang (you would say that, you skinny asian man)
+-Oliver Yang (you would say that, you skinny asian man)
 
 Foam, Beach, Glow in the Dark, Casino Night, Jungle Themed
-- Steve Logan
+-Steve Logan
 
 Graffiti party...white shirts & markers?
 Blackout or Get Out: This theme is pretty simple. Upon arrival at the door each guest must either shotgun 10 beers consecutively or rip up to 10 shots (preferably of 151). If the person can still feel their limbs, 2 more beers or 2 more shots must be administered. 
 ...really I got nuthin WABA
-- Jennie McKain Bitch!
+-Jennie McKain Bitch!
 
 Alcohol?
-- John Wysmuller
+-John Wysmuller
 
 Missions, blacklight party
-- Yoon
+-Yoon
 
 fire
-- chriz ruiz”
+-chriz ruiz”
 
 ---
 
@@ -382,8 +382,8 @@ fall.
 
 ----
 
-Hide_gallery: 
+Hidegallery: false
 
 ----
 
-Hide_filelist: 
+Hidefilelist: false

@@ -1,10 +1,10 @@
-﻿Title: 2012
+Title: 2012
 
 ----
 
 Text: # Sand. Sand Everywhere.
 
-Party theme: it involved paint?
+Party theme: Troyality.
 
 ## DanD's Writeup
 
@@ -48,3 +48,11 @@ Best Accuracy - Rachel Shayne (year?)- 14 out of a possible 30
 *Allie was 2nd in both the pulling and accuracy and even 4th in TRC but since Emma doubled everyone in the TRC she had a big lead that no one could make up.  
 
 Overall the weekend was a blast as always and for all the alumni that missed it, I hope you can make it next year!
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

@@ -1,17 +1,19 @@
-﻿Title: 2010
+Title: 2010
 
 ----
 
 Text: # The Year Eli Cooked Six Frozen Turkeys
 
-Party theme: something about action figures
+## Chris's Writeup:
 
-Location: the attic of the Swamp??? the Batcave???
+Party at some house on 15th (this must've been The Swamp), forgot the Fri theme but the goal of the teams (republicans, hot cops, two other things) was to collect tokens by winning shotgun races, turtle races, etc. against members of another team and redeem them for shots. No wonder I have a hard time remembering any details, but I recall carrying Catie piggy-back, note that doing this requires my hands to be fixed. Just then somebody stole all Becca's tokens from behind her back, she whips around, locks eyes with me, and immediately punches me square in the nose. Anyway, the class of 2004 (Fink, Alden, ?) eventually showed up but right behind them was Troy PD. Party moved to 1207 temporarily, I believe some returned to the party house later.
 
-----
-
-Hide_gallery: 
+Saturday Eli and an injured Kendra cooked all day with a keg full of mashed potatoes (and I do wish I was exaggerating) but I filled up on Ellen's taco dip (and now that I type that I realize I missed out on an incredible double entendre) because "dinner wasn't ready yet." We sent J Mac to lead an emissary team to the neighbor's to avoid seeing the cops two nights in a row, and they were successful. At dinner, Emma was so far ahead in the Distance and TRC from the skills that she was given one accuracy throw to win. She nailed it, and was named the winner. So much food was left over.
 
 ----
 
-Hide_filelist: 
+Hidegallery: false
+
+----
+
+Hidefilelist: false

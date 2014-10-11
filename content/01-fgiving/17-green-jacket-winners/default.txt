@@ -1,4 +1,4 @@
-﻿Title: Green Jacket Winners
+Title: Green Jacket Winners
 
 ----
 
@@ -13,8 +13,8 @@ Text: 1997 - Mike Vogel
 2005 - Brandon Steets
 2006 - Adam Poulos
 2007 -
-2008 -
-2009 - Dan Donovan (score?), Stefan got second.
+2008 - Batman?
+2009 - Dan Donovan (score?), Stefan got second. Year of the blackedout scaffolding climb.
 2010 - Dan Donovan (score?)
 2011 - _nothing official_
 2012 - DanD, Step and Matty Bill$
@@ -22,8 +22,8 @@ Text: 1997 - Mike Vogel
 
 ----
 
-Hide_gallery: 
+Hidegallery: false
 
 ----
 
-Hide_filelist: 
+Hidefilelist: false

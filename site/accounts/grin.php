@@ -6,12 +6,12 @@ password: >
   $2a$10$WyPi5lhdjoAcLr0kQQm9U.hibvnJfvMK4cMkMSxyttkZBcw/eulAG
 language: en
 role: admin
-token: e2d04c5193d9f903f6a8bfd8b5d6d4e9ce937cce
+token: 51907717674f11cca869142959d63fc34755a34e
 history:
   - fgiving/green-jacket-winners
-  - fgiving/2006
-  - fgiving/2011
-  - fgiving/2013
+  - fgiving/2014
   - fgiving/2010
+  - fgiving/2008
+  - fgiving/2006
 firstname: Grin
 lastname:

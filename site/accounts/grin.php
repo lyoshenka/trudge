@@ -6,7 +6,7 @@ password: >
   $2a$10$WyPi5lhdjoAcLr0kQQm9U.hibvnJfvMK4cMkMSxyttkZBcw/eulAG
 language: en
 role: admin
-token: 8481f702fad578530c58130ab49138b4b8bb6df0
+token: 2bc94eec3166ff3f353274b7a67d87bb35a59118
 history:
   - fgiving/green-jacket-winners
   - fgiving/2014

@@ -1,5 +1,13 @@
-﻿Title: FGiving
+Title: FGiving
 
 ----
 
-Text: The history of FGiving, as told by Seth.
+Text: The history of FGiving, as told by Seth (and others).
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

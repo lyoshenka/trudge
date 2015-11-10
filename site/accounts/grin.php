@@ -8,10 +8,10 @@ language: en
 role: admin
 token: 6381c688509e2e8127b85d26f74b08044e2461ab
 history:
+  - fgiving
   - fgiving/green-jacket-winners
   - fgiving/2014
   - fgiving/2010
   - fgiving/2008
-  - fgiving/2006
 firstname: Grin
 lastname:

@@ -100,6 +100,8 @@ h4 {
 p {
   margin-bottom: 20px;
 }
+
+
 nav {
   overflow: hidden;
   border-top: 1px solid green;
@@ -145,15 +147,23 @@ hr {
   border-style: inset;
 }
 
+
 table {
   width: 100%;
 }
-td {
-  padding-right: 5px;
+tbody tr {
+  padding-bottom: 5px;
+}
+tbody tr:nth-child(odd) {
+  background-color: #f4f4f4;
+}
+th, td {
+  padding-right: 10px;
 }
 thead {
   text-align: left;
 }
+
 ul.unstyled li {
   list-style: none;
 }

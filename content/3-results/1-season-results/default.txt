@@ -1,4 +1,4 @@
-Title: Results
+Title: Season Results
 
 ----
 
@@ -222,8 +222,8 @@ Text: ## Links
 
 ----
 
-Hide-gallery: false
+Hidegallery: false
 
 ----
 
-Hide-filelist: false
+Hidefilelist: false

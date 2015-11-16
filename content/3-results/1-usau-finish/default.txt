@@ -1,0 +1,49 @@
+Title: USAU Finish
+
+----
+
+Text: Created by DanD on 11/10/2015
+
+The best ranking at the end of the regular season was 39th in 1998.  I'm thinking you know more about that team than I do but from looking at the rankings, probably somewhere in the top 8 at NE regionals which was a 3 bid region that year I think.  To be fair to the youngbloods down in the 200s in rank, back in the day all it took was an 0-7 record to crack the top 100 (84th in '93).  USAU has gone from under 100 teams ranked to over 400 so it's not quite comparable.  I have no idea what region finish any of those teams had. 
+
+In 1999 RPI was moved to the newly created Metro East Region.  The archives don't have regional results until 2004 so I still can't tell what happened in those years.  Our best finish at ME D-I regionals was in 2009, with 11th place.  In 2011, the Metro East shrunk (picking up Connecticut but losing Pennsylvania) and D-III was split off to it's own path.  This drastically reduced the competitiveness of Regionals.  D-III nationals has been probably the best measuring stick for the past 10 years.  We came in 2nd at D-III regionals in it's first year and won it in 2012.  Our best finish at D-III nationals was in 2007 with T-7th place.
+
+|Year|Level of Regionals|Regionals|D-III nationals|Rank
+|-----|----------|--------|-------|
+||1987|NE|???|N/A|Unranked|
+|1988|NE|???|N/A|Unranked|
+|1989|NE|???|N/A|Unranked|
+|1990|NE|???|N/A|Unranked|
+|1991|NE|???|N/A|Unranked|
+|1992|NE|???|N/A|Unranked|
+|1993|NE|???|N/A|84|
+|1994|NE|???|N/A|123|
+|1995|NE|???|N/A|93|
+|1996|NE|???|N/A|66|
+|1997|NE|???|N/A|78|
+|1998|NE|???|N/A|39|
+|1999|ME|???|N/A|78|
+|2000|ME|???|N/A|127|
+|2001|ME|???|N/A|114|
+|2002|ME|???|N/A|202|
+|2003|ME|???|N/A|Unranked|
+|2004|ME|DNQ|N/A|210|
+|2005|ME|DNQ|N/A|Unranked|
+|2006|ME|DNQ|DNQ|158|
+|2007|ME|DNQ|T-7th|146|
+|2008|ME|16th|T-9th|113|
+|2009|ME D-I|11th|T-11th|182|
+|2010|ME D-I|T-14th|T-11th|152|
+|2011|ME D-III|2nd|DNQ|198|
+|2012|ME D-III|1st|T-11th|173|
+|2013|ME D-III|DNQ|DNQ|230|
+|2014|ME D-III|DNQ|DNQ|219|
+|2015|ME D-III|9th|DNQ|214|
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

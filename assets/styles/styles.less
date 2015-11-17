@@ -28,6 +28,12 @@
 
 @green = #257d04;
 @brown = #6e2403;
+@yellow = #ffdc00;
+@white = #fff;
+@hrcolor = #6c4305;
+@fontcolor = #444;
+@headercolor = #222;
+@tablerowcolor = #f4f4f4;
 @maxwidth = 700px;
 
 #instantclick-bar {
@@ -62,17 +68,15 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   font-size: 16px;
   line-height: 26px;
-  background: #fff;
-  color: #5a5a5a;
+  background: @white;
+  color: @fontcolor;
   margin: 50px auto;
-}
-
-body, img {
+  padding: 0 10px;
   max-width: @maxwidth;
 }
 
 a {
-  color: #222;
+  color: @brown;
   text-decoration: none;
 }
 a,
@@ -82,17 +86,22 @@ a:visited {
   outline: 0px;
 }
 a:hover {
-  background-color: #FFDC00;
+  background-color: @yellow;
 /*  color: @green; */
 }
+
+
 img {
   outline: 0;
   border: 0;
+  max-width: 100%;
 }
+
+
 h1 {
   font-size: 28px;
   line-height: 40px;
-  color: #222;
+  color: @headercolor;
   margin-bottom: 20px;
 }
 h2 {
@@ -105,7 +114,7 @@ h2 {
 h3 {
   font-weight: normal;
   font-size: 20px;
-  color: #222;
+  color: @headercolor;
   margin-bottom: 21px;
 }
 h4 {
@@ -139,25 +148,21 @@ nav.submenu {
 nav.submenu a {
   font-weight: normal;
 }
+
 section.content {
   margin-top: 40px;
 }
+
 footer {
   padding-top: 20px;
   margin-top: 20px;
   border-top: 1px solid @green;
   font-size: 13px;
-  color: #222;
 }
-footer a {
-  color: @green;
-}
-footer a:hover {
-  color: #222;
-}
+
 hr {
   margin: 20px 0;
-  color: #6c4305;
+  color: @hrcolor;
   border-width: 1px;
   border-style: inset;
 }
@@ -170,7 +175,7 @@ tbody tr {
   padding-bottom: 5px;
 }
 tbody tr:nth-child(odd) {
-  background-color: #f4f4f4;
+  background-color: @tablerowcolor;
 }
 th, td {
   padding-right: 10px;

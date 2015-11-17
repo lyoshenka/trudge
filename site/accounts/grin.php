@@ -8,10 +8,10 @@ language: en
 role: admin
 token: 7db19aa6a3f71bb29c7855c41f7416c9819e34d4
 history:
+  - fgiving/2015
   - frolf/course-maps
   - frolf/how-to-play
   - results/season-results
   - frolf
-  - results
 firstname: Grin
 lastname:

@@ -8,10 +8,10 @@ language: en
 role: admin
 token: 7db19aa6a3f71bb29c7855c41f7416c9819e34d4
 history:
+  - results/season-results
   - frolf
   - results
   - fgiving/green-jacket-winners
   - frolf/how-to-play
-  - results/season-results
 firstname: Grin
 lastname:

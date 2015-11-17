@@ -1,0 +1,23 @@
+Title: Course Maps
+
+----
+
+Text: ## Front Nine
+
+https://www.google.com/maps/d/u/0/edit?mid=zWrFEgUymmJ4.kzSs4ySMEA78
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zWrFEgUymmJ4.kzSs4ySMEA78" width="640" height="480"></iframe>
+
+## Back Nine
+
+https://www.google.com/maps/d/u/0/edit?mid=zWrFEgUymmJ4.k9K8u-93Hn6g
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zWrFEgUymmJ4.k9K8u-93Hn6g" width="640" height="480"></iframe>
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

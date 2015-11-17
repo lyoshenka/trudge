@@ -7,13 +7,14 @@ Text: ## The Rules
 - Spirit is of the utmost importance.
 - For the tee-off, whoever scored lowest on the last hole throws first.
 - For other throws, whoever is furthest from the hole throws first.
-- Pivot goes where the disc is (this is not disc golf).
+- Pivot goes where the disc is, so you can pivot forward (this is not disc golf).
 - You must hit the target in a place you could touch from the ground (i.e. if the target is a tree, hitting a tree branch 20ft overhead does not count).
 - One mulligan per 9 holes (one for front 9, one for back 9).
+- Water is determined based on where the center of the disc is.
 
 ### Penalties
 
-- Asphalt where cars drive= +1 penalty
+- Water (where cars drive) = +1 penalty
 - Car= +1 penalty
 - Glass = +2 penalty
 - Getting hit by someone else's disc= +1 penalty
@@ -26,6 +27,8 @@ Text: ## The Rules
 - Continue adding up shots until there's a single winner for a hole
 
 ## The Course
+
+[Course Maps](/frolf/course-maps)
 
 |Hole #|Par|Start|Finish|Record|Recordholder(s)|
 |---------|----|-------|--------|---------|----------------------|
@@ -46,7 +49,7 @@ Text: ## The Rules
 |15|3|Standing on the big rock in the garden|Lamppost at the northeast corner of the pit of rocks northeast of walker|2| |
 |16|3|One foot on the grate outside the door on the west side of Sage|Hit on top of the circular pedestal in front of Sage|2?| |
 |17|4|Top of where the stairs used to be that lead down from the wind sculpture to the 86 Field|Plaque on the side of the JEC (in the small alcove)|3| |
-|18|3 or 4?|Northeast corner of the walkway near the JEC|The large flagpole near the Quad|2 or 3?| |
+|18|4|Northeast corner of the walkway near the JEC|The large flagpole near the Quad|2 or 3?| |
 |19 (Tiebreaker)|Lowest score wins|Near the flag|ATMs inside union| | |
 
 ----

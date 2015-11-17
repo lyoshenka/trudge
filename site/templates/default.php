@@ -13,7 +13,7 @@
       <ul class="gallery unstyled">
         <?php foreach($page->images() as $image): ?>
           <li>
-            <a href="<?php echo $image->url() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->name() ?>"></a>
+            <a data-no-instant href="<?php echo $image->url() ?>"><img src="<?php echo $image->url() ?>" alt="<?php echo $image->name() ?>"></a>
           </li>
         <?php endforeach ?>
       </ul>
@@ -26,7 +26,7 @@
         <?php foreach($page->files() as $file): ?>
           <?php if ($file->type() != 'content' && (!$showGallery || $file->type() != 'image')): ?>
             <li>
-              <a href="<?php echo $file->url() ?>"><?php echo $file->filename() ?></a>
+              <a data-no-instant href="<?php echo $file->url() ?>"><?php echo $file->filename() ?></a>
             </li>
           <?php endif ?>
         <?php endforeach ?>

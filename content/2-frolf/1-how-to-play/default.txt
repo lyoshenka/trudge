@@ -37,7 +37,7 @@ Text: ## The Rules
 |3|4|Tree on small hill next to Sage|Furthest lamppost on little island in front of 87 Gym|2|Grin. Frick?|
 |4|3|Island in front of 87 Gym|No Parking sign past the 86 field and next to shuttle stop by the DCC|2|Grin, Yoon, Andrew, DanD|
 |5|4|Manhole cover near shuttle bus stop (no run-up)|Right door of Greene building|2|Grin|
-|6|3|Under the bridge near hole 5 end (don't cross the line where the rocks end)|Lamppost closest to Troy building (but not the one on the stairs, the one a bit to the left if you face the entrance)|2|Jimmy, Zac (x2), DanD, Cylon|
+|6|3|Under the bridge near hole 5 end (don't cross the line where the rocks end)|Lamppost closest to Troy building (but not the one on the stairs, the one a bit to the left if you face the entrance)|2|Jimmy, Zac (x2), DanD, Cylon, Grin|
 |7|4|Corner of sidewalk outside Troy building|Clock on Sage lawn|2|Grin|
 |8|4|Manhole near clock (down the path that leads towards Amos Eaton. no run-up)|Lamppost near library in the valley between library and Amos Eaton|2|Grin|
 |9|3|Small area near hole 8 end. Stay behind the tree (you have to throw around it)|Emergency light in front of the library at the top of the ramp that comes from the concentric circles and points to the library|2|DanD, Steve|

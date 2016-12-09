@@ -6,12 +6,12 @@ password: >
   $2a$10$WyPi5lhdjoAcLr0kQQm9U.hibvnJfvMK4cMkMSxyttkZBcw/eulAG
 language: en
 role: admin
-token: 7db19aa6a3f71bb29c7855c41f7416c9819e34d4
+token: fafd6f410010a791c915039cdc078387f45798a0
 history:
-  - fgiving/2015
-  - frolf/course-maps
+  - fgiving/2016
+  - frolf/green-jacket-winners
+  - frolf/course-records
   - frolf/how-to-play
-  - results/season-results
-  - frolf
+  - fgiving/2015
 firstname: Grin
 lastname:

@@ -3,10 +3,10 @@
 username: grin
 email: lyoshenka@gmail.com
 password: >
-  $2a$10$WyPi5lhdjoAcLr0kQQm9U.hibvnJfvMK4cMkMSxyttkZBcw/eulAG
+  $2y$13$v55rOCdz.ttF4ktBDcFSNO5EE0t1IavMfeSfEDbXaGMAb/NmXEQcK
 language: en
 role: admin
-token: 645ce185d7cf6eb1e93bab7ba6c3fddc99406861
+token: 95624b0c6a2ea9833eb819de7847ab7aebbe5ac6
 history:
   - fgiving/2017
   - fgiving/2016

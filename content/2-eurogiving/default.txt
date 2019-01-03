@@ -1,0 +1,13 @@
+Title: EuroGiving
+
+----
+
+Text: 
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false

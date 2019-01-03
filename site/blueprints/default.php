@@ -16,6 +16,8 @@ fields:
   hidegallery:
     label: Hide Gallery
     type: toggle
+    default: false
   hidefilelist:
     label: Hide File List
     type: toggle
+    default: false

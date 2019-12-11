@@ -8,10 +8,10 @@ language: en
 role: admin
 token: 95624b0c6a2ea9833eb819de7847ab7aebbe5ac6
 history:
+  - frolf/green-jacket-winners
   - eurogiving/2018
   - eurogiving
   - other-photos
   - fgiving/2017
-  - fgiving/2016
 firstname: Grin
 lastname: ""

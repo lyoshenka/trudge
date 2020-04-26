@@ -1,5 +1,6 @@
 <?php
 
+/*
 echo <<<END
 <!doctype html>
 <html><head>
@@ -21,6 +22,7 @@ echo <<<END
 </body></html>
 END;
 die();
+ */
 
 define('DS', DIRECTORY_SEPARATOR);
 

@@ -1,0 +1,13 @@
+Title: 1601 Tibbits
+
+----
+
+Text: 
+
+----
+
+Hidegallery: false
+
+----
+
+Hidefilelist: false
